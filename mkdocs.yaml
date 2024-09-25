@@ -1,0 +1,8 @@
+site_name: "quarkus-test"
+site_description: "quarkus-app"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
